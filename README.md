@@ -37,7 +37,7 @@ Project Description- Simple Search Engine is a Java application developed using 
 Interchange Format) format. The interaction with the search server to access the database is dependent on the Java interface provided by classes in Java
 SDK. Your search engine contains a history of the pages you searched for, pages visited in the past few days, accounts linked with it, etc
 
-#### 3. Create a Scientific Calculator in Java
+#### Create a Scientific Calculator in Java
 
 Technologies Required - Java, Java Swing, Java AWT, and OOPS
 
