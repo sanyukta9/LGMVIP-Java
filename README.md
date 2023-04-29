@@ -29,7 +29,7 @@ them gets a line cut either diagonally or straight. And the person who founds th
 
 
 ### 02 INTERMEDIATE LEVEL TASKS
- #### 1.Create a Simple Search Engine in Java
+ #### 1. Create a Simple Search Engine in Java
 
 Technologies Required - Java, Java Servlet, Oracle or SQL Database, JDBC, Apache Tomcat, and JSP
 
